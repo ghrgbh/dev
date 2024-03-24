@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640459612541",
+    "project_id": "technodrive-1909e",
+    "storage_bucket": "technodrive-1909e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640459612541:android:d1d7b91c0f464e3c556c14",
+        "android_client_info": {
+          "package_name": "com.example.technodrive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ15-bQACscDHbCefo3MjE4i9TsxFBGYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
